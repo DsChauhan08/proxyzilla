@@ -14,5 +14,5 @@ The BingVault Proxy is used to bypass CORS-protected URLs on the client side, al
 ## Getting Started
 
 You have to use Cloudflare Workers to run this. Also having a github account it must.
-
+[Deploy from here](https://deploy.workers.cloudflare.com/?url=https://github.com/DsChauhan08/proxyzilla)
 
